@@ -1,7 +1,5 @@
 package LinearSearch;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class Search {
     public static void main(String[] args) {
 
